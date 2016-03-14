@@ -20,7 +20,7 @@ app.get('/friends', function(req, res) {
   .catch(error);
 
   function send(data) {
-    return res.json({events: data});
+    return res.json({data: data});
   }
   function error(error) {
     return res.status(400);
