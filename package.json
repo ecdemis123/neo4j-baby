@@ -1,0 +1,24 @@
+{
+  "name": "neo4j-baby",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ecdemis123/neo4j-baby.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ecdemis123/neo4j-baby/issues"
+  },
+  "homepage": "https://github.com/ecdemis123/neo4j-baby#readme",
+  "dependencies": {
+    "cypher-stream": "^0.3.0",
+    "express": "^4.13.4",
+    "request": "^2.69.0"
+  }
+}
