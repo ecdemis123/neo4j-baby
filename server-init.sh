@@ -1,3 +1,4 @@
+#!/bin/bash
 wget http://dist.neo4j.org/neo4j-community-3.0.0-M02-unix.tar.gz
 tar -xf neo4j-community-3.0.0-M02-unix.tar.gz
 
